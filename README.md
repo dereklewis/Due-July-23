@@ -6,4 +6,4 @@
 
 ## Screen Shot:
 
-![img]/Users/dwreck/Desktop/Real-Homework/Due-July-23/Due-July-23/Screen Shot 2021-07-23 at 5.58.23 PM.png
+<img width="1440" alt="Screen Shot 2021-07-23 at 5 58 23 PM" src="https://user-images.githubusercontent.com/79670209/126853467-d469c34f-a52f-4287-8397-d81687e5e600.png">
